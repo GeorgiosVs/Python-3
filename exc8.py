@@ -1,4 +1,4 @@
-#Version 1
+#Version 2
 """def myFunc(word):
     return word[::-1]
 
