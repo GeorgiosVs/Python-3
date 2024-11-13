@@ -1,4 +1,4 @@
-#Version 1
+#Version 1 updated
 def func(a, b=1, c=2):
     print('a =', a, 'και b =', b, 'και c =', c)
 
